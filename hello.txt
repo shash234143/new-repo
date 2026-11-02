@@ -1,2 +1,0 @@
-my first experiment
-git operations are performed using vs code
